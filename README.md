@@ -1,5 +1,5 @@
 # Quantus_coding_test
-Quantus_coding_test
+한예슬 - QUANTUS 과제유형1 TEST 내역 보고서
 
 ## 1. get_1_or_0 함수 test
 
